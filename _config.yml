@@ -1,6 +1,6 @@
 # Site settings
 title: Meine liebsten Rezepte
-image: /images/snack.jpg
+image: images/snack.jpg
 email: mary@vomar.de
 description: > # this means to ignore newlines until "baseurl:"
   Über die Jahre hinweg gesammelte Rezepte von Familie und Freunden.
