@@ -1,0 +1,13 @@
+# Site settings
+title: Meine liebsten Rezepte
+image: /images/snack.jpg
+email: mary@vomar.de
+description: > # this means to ignore newlines until "baseurl:"
+  Über die Jahre hinweg gesammelte Rezepte von Familie und Freunden.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://marymar.github.io" # the base hostname & protocol for your site
+twitter_username: #nothing
+github_username:  marymar
+
+# Build settings
+markdown: kramdown
