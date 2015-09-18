@@ -5,6 +5,6 @@ date:   2015-09-17 17:49:55
 categories: Allgemeines
 ---
 
-Nun kann ich endlich meine liebsten Rezepte von Zetteln und handschriftlichen Notizbüchern im Internet festhaltenen.
+Nun kann ich endlich meine liebsten Rezepte von Zetteln und handschriftlichen Notizbüchern im Internet festhalten.
 Ich musste ja *sooo* lange darauf warten... ;-)
 

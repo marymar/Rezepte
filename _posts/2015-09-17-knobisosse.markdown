@@ -6,7 +6,7 @@ categories: Soßen und Dipps
 ---
 
 * 1 Becher Dickmilch
-* 1 großes Glas Mayonaise
+* 1 großes Glas Mayonnaise
 * 1 Becher Creme Fraiche Knoblauch
 * 1 Packung Schnittlauch tiefgefroren
 * Knoblauchzehen (nach belieben)
