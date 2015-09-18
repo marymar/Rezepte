@@ -15,7 +15,7 @@ categories: Soßen und Dipps
 * Pfeffer
 * Zucker
 
-Knobleich fein hacken und alle Zutaten miteinander vermengen. Mit Salz, Pfeffer und Zucker abschmecken.
+Knoblauch fein hacken und alle Zutaten miteinander vermengen. Mit Salz, Pfeffer und Zucker abschmecken.
 Über Nacht im Kühlschrank ziehen lassen.
 
 Schmeckt sehr lecker als Dipp mit Fladenbrot.
