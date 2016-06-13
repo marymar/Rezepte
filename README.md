@@ -1,4 +1,4 @@
-#Meine Rezepte#
+#Meine Rezepte - Ein Jekyll Projekt#
 
 Meine gesammelten Rezepte über *all die* Jahre.
 
@@ -11,5 +11,5 @@ Es generiert aus HTML-Includes und Markdown Dateien statische Webseiten, die dan
 
 *Ist wirklich nicht schwer - allerdings muss man sich mit Markdown anfreunden können.*
 
-Vielleciht auch hilfreich für einen einfachen Einstieg:
+Vielleicht auch hilfreich für einen einfachen Einstieg:
 [Build A Blog With Jekyll And GitHub Pages](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
